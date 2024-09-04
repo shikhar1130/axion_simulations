@@ -1,3 +1,3 @@
-Hello, this is the README file for the project.
+# Axion Production Mechanisms through random simulations.
 
-*this is a *sentence with some **formatting.
+There are different .cpp and .py files included in this repository.
